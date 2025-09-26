@@ -1,4 +1,4 @@
-## Hi there 👋
+## heya, just starting my cyber security journey :)
 
 <!--
 **cxxxn4u69/cxxxn4u69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
